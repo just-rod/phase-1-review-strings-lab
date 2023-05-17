@@ -1,6 +1,6 @@
 # Review: Strings Lab
 
-## Learning Goals
+## Learning Goals 
 
 - Concatenate strings with the `+` operator
 - Interpolate variables and other JavaScript expressions inside template literals
